@@ -1,0 +1,3 @@
+Am creat, folosind structurile date, un graf metrou ce contine matricea de adiacenta distanta, un vector de tip Statie_Metrou ce contine datele fiecarei statii(inclusiv clientii), un vector de grafuri de tip Graf_Clienti(o pozitie din vector = un graf corespunzator unei statii).
+
+Eliberare memorie: am reusit sa eliberez memoria, nu am memory leakuri.
